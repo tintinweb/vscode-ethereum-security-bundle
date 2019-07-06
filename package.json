@@ -1,0 +1,43 @@
+{
+    "name": "ethereum-security-bundle",
+    "displayName": "Ethereum Security Bundle",
+    "description": "A meta-extension bundling marketplace plugins for secure Ethereum smart contract development.",
+    "version": "0.0.1",
+    "keywords": [
+        "blockchain",
+        "ethereum",
+        "solidity",
+        "vyper",
+        "lll",
+        "truffle",
+        "security"
+    ],
+    "publisher": "tintinweb",
+    "icon": "images/icon.png",
+    "engines": {
+        "vscode": "^1.20.2"
+    },
+    "categories": [
+        "Programming Languages"
+    ],
+    "bugs": {
+        "url": "https://github.com/tintinweb/vscode-ethereum-security-bundle/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/tintinweb/vscode-ethereum-security-bundle"
+    },
+    "extensionDependencies": [
+        "juanblanco.solidity",
+        "beaugunderson.solidity-extended",
+        "hosho.solidity-debugger",
+        "tintinweb.solidity-visual-auditor",
+        "tintinweb.vscode-vyper",
+        "tintinweb.vscode-LLL",
+        "tintinweb.vscode-solidity-flattener",
+        "streetsidesoftware.code-spell-checker",
+        "eg2.vscode-npm-script",
+        "ryu1kn.partial-diff",
+        "eamodio.gitlens"
+    ]
+}
