@@ -11,7 +11,7 @@ A meta-extension bundling [vscode marketplace](https://marketplace.visualstudio.
 
 * [juanblanco.solidity](https://marketplace.visualstudio.com/items?itemName=juanblanco.solidity) - Solidity language support and more!
 * [beaugunderson.solidity-extended](https://marketplace.visualstudio.com/items?itemName=beaugunderson.solidity-extended) - Solidity support that aims to enable all of Visual Studio Code's features. 
-* [hosho.solidity-debugger](https://marketplace.visualstudio.com/items?itemName=hosho.solidity-debugger)
+* [hosho.solidity-debugger](https://marketplace.visualstudio.com/items?itemName=hosho.solidity-debugger) - A Debugger for Solidity smart contracts - powered by the Meadow testing and development tool suite.
 * [tintinweb.solidity-visual-auditor](https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor) - Security centric syntax and semantic highlighting, a detailed class outline and advanced Solidity code insights for Solidity developers and auditors.
 * [tintinweb.vscode-solidity-flattener](https://marketplace.visualstudio.com/items?itemName=tintinweb.vscode-solidity-flattener) - Flatten Solidity contracts from truffle projects from within vscode (context menu for solidity files in the vscode file explorer).
 
