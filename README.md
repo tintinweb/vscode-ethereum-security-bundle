@@ -29,7 +29,7 @@ A meta-extension bundling [vscode marketplace](https://marketplace.visualstudio.
 * [ryu1kn.partial-diff](https://marketplace.visualstudio.com/items?itemName=ryu1kn.partial-diff) - Create partial diffs of selected text in the vscode text editor.
 * [eg2.vscode-npm-script](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script) - NPM integration for vscode. Install dependencies directly by right-clicking `package.json` in your vscode file explorer.
 * [eamodio.gitlens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - Git support. Especially useful when reviewing diffs.
-
+* [gimenete.github-linker](https://marketplace.visualstudio.com/items?itemName=gimenete.github-linker) - Right-Click and copy a github link of the selected code fragment to clipboard.
 
 ## Credits
 
