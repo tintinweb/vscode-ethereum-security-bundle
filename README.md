@@ -13,10 +13,10 @@ A meta-extension bundling [vscode marketplace](https://marketplace.visualstudio.
 ## What's the story?
 
 
-* You (👦👧) are developing or auditing smart contracts for the Ethereum ecosystem 💻.
-* (optional) You ❤ `git` and your 🏠 is [github](https://github.com/).
-* You are battling ⚡ with all the different IDE's that claim to support smart contract languages but they do not seem to be the right fit 😐.
-* The IDE's by default do not sufficiently support you in doing a good job out of the box and the IDE's marketplace 🍏🍌🍉(or contrib. extensions) offer an overwhelming amount of extensions 🀄.
+* You are developing or auditing smart contracts for the Ethereum ecosystem 👦👧💻 
+* (optional) You love `git` and your home is [github](https://github.com/) ❤🏠
+* You are battling with all the different IDE's that claim to support smart contract languages but they do not seem to be the right fit ⚡😐
+* The IDE's by default do not sufficiently support you in doing a good job out of the box and the IDE's marketplace (or contrib. extensions) offer an overwhelming amount of extensions 🍏🍌🍉🀄
 
 💡 I've been there and am now stuck on [vscode](https://code.visualstudio.com/) as the defacto IDE for all things Ethereum smart contract. I require an IDE that allows me to navigate large code-bases efficiently, preferably without wasting time. Especially with the risk profile of smart contracts I am very interested in an IDE the passively and actively supports me in writing secure code and makes me aware of functionality that is exposed or state-modifying.
 
