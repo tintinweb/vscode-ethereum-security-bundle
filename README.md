@@ -20,11 +20,11 @@ A meta-extension bundling [vscode marketplace](https://marketplace.visualstudio.
 
 💡 I've been there and am now stuck on [vscode](https://code.visualstudio.com/) as the defacto IDE for all things Ethereum smart contract. I require an IDE that allows me to navigate large code-bases efficiently, preferably without wasting time. Especially with the risk profile of smart contracts I am very interested in an IDE the passively and actively supports me in writing secure code and makes me aware of functionality that is exposed or state-modifying.
 
-That's why I publish this meta-extension that does not contribute any functionality by its own, but installs a curated set of useful extensions commonly found on the [vscode marketplace](https://marketplace.visualstudio.com/search?term=ethereum&target=VSCode&category=All%20categories&sortBy=Relevance). 🤓
+That's why I publish [this meta-extension](https://marketplace.visualstudio.com/items?itemName=tintinweb.ethereum-security-bundle) that does not contribute any functionality by its own, but installs a curated set of useful extensions commonly found on the [vscode marketplace](https://marketplace.visualstudio.com/search?term=ethereum&target=VSCode&category=All%20categories&sortBy=Relevance). 🤓
 
 ## 😎 What's included?
 
-Feel like an extension is missing or should be removed from the bundle? Create an [issue](https://github.com/tintinweb/vscode-ethereum-security-bundle/issues) and vote for an extension to be accepted or removed! Together we can make this work for everyone :)  
+You feel like an extension is missing or should be removed from the bundle? Vote for it by creating an [issue](https://github.com/tintinweb/vscode-ethereum-security-bundle/issues) and we'll remove/add it! Together we can make this work for everyone :)  
 
 #### Solidity 
 
