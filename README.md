@@ -10,21 +10,20 @@ A meta-extension bundling [vscode marketplace](https://marketplace.visualstudio.
 * [Alright, it's installed, any other settings and tweaks you want to share?](#tweaks)
 * [Other useful extensions, not bunled with this one](#other-useful-extensions)
   
-## What's the story?
+## 📚What's the story?
 
 
-* You are developing or auditing smart contracts for the Ethereum ecosystem 👦👧💻 
-* (optional) You love `git` and your home is [github](https://github.com/) ❤🏠
-* You are battling with all the different IDE's that claim to support smart contract languages but they do not seem to be the right fit ⚡😐
-* The IDE's by default do not sufficiently support you in doing a good job out of the box and the IDE's marketplace (or contrib. extensions) offer an overwhelming amount of extensions 🍏🍌🍉🀄
+* You are developing or auditing smart contracts for the Ethereum ecosystem.
+* (optional) You love `git` and your home is [github](https://github.com/)❤ .
+* You are battling with all the different IDE's that claim to support smart contract languages but they do not seem to be the right fit ⚡😐.
+* The IDE's by default do not sufficiently support you doing a good job out.
+* The options provided by the IDE's marketplace is just overwhelming.
 
-💡 I've been there and am now stuck on [vscode](https://code.visualstudio.com/) as the defacto IDE for all things Ethereum smart contract. I require an IDE that allows me to navigate large code-bases efficiently, preferably without wasting time. Especially with the risk profile of smart contracts I am very interested in an IDE the passively and actively supports me in writing secure code and makes me aware of functionality that is exposed or state-modifying.
+This [meta-extension](https://marketplace.visualstudio.com/items?itemName=tintinweb.ethereum-security-bundle) aims to help you getting your IDE up to speed. It does not contribute any new functionality by its own, but installs a curated set of useful extensions for ethereum developers from the [vscode marketplace](https://marketplace.visualstudio.com/search?term=ethereum&target=VSCode&category=All%20categories&sortBy=Relevance). 🤓
 
-That's why I publish [this meta-extension](https://marketplace.visualstudio.com/items?itemName=tintinweb.ethereum-security-bundle) that does not contribute any functionality by its own, but installs a curated set of useful extensions commonly found on the [vscode marketplace](https://marketplace.visualstudio.com/search?term=ethereum&target=VSCode&category=All%20categories&sortBy=Relevance). 🤓
+## 🎁 What's included?
 
-## 😎 What's included?
-
-You feel like an extension is missing or should be removed from the bundle? Vote for it by creating an [issue](https://github.com/tintinweb/vscode-ethereum-security-bundle/issues) and we'll remove/add it! Together we can make this work for everyone :)  
+Alright, this is supposed to be a community curated extension. If you feel like an extension is missing or should be removed from the bundle? Vote for it by creating an [issue](https://github.com/tintinweb/vscode-ethereum-security-bundle/issues) and we'll remove/add it if the vote succeeds! Together we can make this work for everyone :)  
 
 #### Solidity 
 
@@ -68,9 +67,9 @@ You feel like an extension is missing or should be removed from the bundle? Vote
 * [eg2.vscode-npm-script](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script) - NPM integration for vscode. Install dependencies directly by right-clicking `package.json` in your vscode file explorer.
 * [eamodio.gitlens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - Git support. Especially useful when reviewing diffs.
 
-## Tweaks
+## ⚙ Tweaks
 
-Cool, you've come this far therefore I expect you're genuinely interested in either the individual extension or you just installed the one-click bundle :) Either way, you're welcome!
+Cool, you've come this far therefore I expect you're genuinely interested in either the individual extensions or you just installed the one-click bundle :) Either way, you're welcome!
 
 Here's a quick walk-through and some tweaks on how to get the best out of vscode and the extensions.
 
