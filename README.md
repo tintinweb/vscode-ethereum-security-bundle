@@ -7,7 +7,7 @@ A meta-extension bundling [vscode marketplace](https://marketplace.visualstudio.
 * [What's included?](#-whats-included)
   * [I want (extension-name-here) to be part of this awesome bundle! Where to go?](#-whats-included)
   * [(extension-name-here) is sh*t! How to get it removed from the bundle?](#-whats-included)
-* [Alright, it's installed, any other settings and tweaks you want to share?](#tweaks)
+* [Alright, it's installed, any other settings and tweaks you want to share?](#-tweaks)
 * [Other useful extensions, not bunled with this one](#other-useful-extensions)
   
 ## 📚What's the story?
