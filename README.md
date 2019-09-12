@@ -37,6 +37,7 @@ You feel like an extension is missing or should be removed from the bundle? Vote
 
 ##### Tool integrations
 
+* [mirkogarozzo.mythxvsc](https://marketplace.visualstudio.com/items?itemName=mirkogarozzo.mythxvsc) - VS Code extension for [MythX](https://mythx.io/), the smart contract security scanning service.
 * [tintinweb.vscode-solidity-flattener](https://marketplace.visualstudio.com/items?itemName=tintinweb.vscode-solidity-flattener) - Flatten Solidity contracts from truffle projects from within vscode (context menu for solidity files in the vscode file explorer).
 
 #### Vyper
