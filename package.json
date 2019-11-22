@@ -2,7 +2,7 @@
     "name": "ethereum-security-bundle",
     "displayName": "Ethereum Security Bundle",
     "description": "A meta-extension bundling marketplace plugins for secure Ethereum smart contract development.",
-    "version": "0.0.1",
+    "version": "0.0.3",
     "keywords": [
         "blockchain",
         "ethereum",
@@ -18,6 +18,7 @@
         "vscode": "^1.20.2"
     },
     "categories": [
+        "Extension Packs",
         "Programming Languages"
     ],
     "bugs": {
@@ -27,7 +28,7 @@
         "type": "git",
         "url": "https://github.com/tintinweb/vscode-ethereum-security-bundle"
     },
-    "extensionDependencies": [
+    "extensionPack": [
         "juanblanco.solidity",
         "beaugunderson.solidity-extended",
         "hosho.solidity-debugger",
@@ -35,6 +36,7 @@
         "tintinweb.vscode-vyper",
         "tintinweb.vscode-LLL",
         "tintinweb.vscode-solidity-flattener",
+        "tintinweb.vscode-inline-bookmarks",
         "streetsidesoftware.code-spell-checker",
         "eg2.vscode-npm-script",
         "ryu1kn.partial-diff",

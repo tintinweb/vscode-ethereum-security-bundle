@@ -61,6 +61,7 @@ Alright, this is supposed to be a community curated extension. If you feel like 
 ##### Review
 
 * [ryu1kn.partial-diff](https://marketplace.visualstudio.com/items?itemName=ryu1kn.partial-diff) - Create partial diffs of selected text in the vscode text editor.
+* [tintinweb.vscode-inline-bookmarks](https://marketplace.visualstudio.com/items?itemName=tintinweb.vscode-inline-bookmarks) - Easily add customizable inline bookmarks based on trigger words. Perfect for code audits or to keep track of notes and todo's.
 
 ##### Tool integrations
 
@@ -186,6 +187,10 @@ Here's a quick walk-through and some tweaks on how to get the best out of vscode
 * Material Icon Theme
 * Markdown All in One
 
+## Notes
+
+* You can uninstall individual extensions at any point.
+* Uninstalling the extension pack will uninstall all the referenced extensions.
 
 ## Credits
 
