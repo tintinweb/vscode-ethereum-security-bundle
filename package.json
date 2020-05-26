@@ -2,7 +2,7 @@
     "name": "ethereum-security-bundle",
     "displayName": "Ethereum Security Bundle",
     "description": "A meta-extension bundling marketplace plugins for secure Ethereum smart contract development.",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "keywords": [
         "blockchain",
         "ethereum",
@@ -42,6 +42,6 @@
         "ryu1kn.partial-diff",
         "eamodio.gitlens",
         "gimenete.github-linker",
-        "mirkogarozzo.mythxvsc"
+        "MythX.mythxvsc"
     ]
 }
