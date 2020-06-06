@@ -31,7 +31,6 @@
     "extensionPack": [
         "juanblanco.solidity",
         "beaugunderson.solidity-extended",
-        "hosho.solidity-debugger",
         "tintinweb.solidity-visual-auditor",
         "tintinweb.vscode-vyper",
         "tintinweb.vscode-LLL",
