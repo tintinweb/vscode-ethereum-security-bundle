@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.0.5
+
+- remove solidity-debugger. non-working and project seems to be discontinued.
+
 ## 0.0.4
 
 - updated: `mirkogarozzo.mythxvsc` (deprecated) -> `MythX.mythxvsc` (official)
