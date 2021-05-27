@@ -30,7 +30,6 @@ Alright, this is supposed to be a community curated extension. If you feel like 
 ##### Language support
 
 * [juanblanco.solidity](https://marketplace.visualstudio.com/items?itemName=juanblanco.solidity) - Solidity language support and more!
-* [beaugunderson.solidity-extended](https://marketplace.visualstudio.com/items?itemName=beaugunderson.solidity-extended) - Solidity support that aims to enable all of Visual Studio Code's features. 
 * [tintinweb.solidity-visual-auditor](https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor) - Security centric syntax and semantic highlighting, a detailed class outline and advanced Solidity code insights for Solidity developers and auditors.
 
 ##### Tool integrations

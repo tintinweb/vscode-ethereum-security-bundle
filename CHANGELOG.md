@@ -1,8 +1,12 @@
 # Change Log
 
+## 0.0.6
+
+- removed: `beaugunderson.solidity-extended` - not maintained anymore
+
 ## 0.0.5
 
-- remove solidity-debugger. non-working and project seems to be discontinued.
+- removed: solidity-debugger. non-working and project seems to be discontinued.
 
 ## 0.0.4
 
