@@ -31,6 +31,7 @@ Alright, this is supposed to be a community curated extension. If you feel like 
 
 * [juanblanco.solidity](https://marketplace.visualstudio.com/items?itemName=juanblanco.solidity) - Solidity language support and more!
 * [tintinweb.solidity-visual-auditor](https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor) - Security centric syntax and semantic highlighting, a detailed class outline and advanced Solidity code insights for Solidity developers and auditors.
+* [tintinweb.solidity-metrics](https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-metrics) - Create fancy solidity code metrics reports.
 
 ##### Tool integrations
 
