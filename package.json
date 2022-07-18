@@ -2,7 +2,7 @@
     "name": "ethereum-security-bundle",
     "displayName": "Ethereum Security Bundle",
     "description": "A meta-extension bundling marketplace plugins for secure Ethereum smart contract development.",
-    "version": "0.0.6",
+    "version": "0.0.7",
     "keywords": [
         "blockchain",
         "ethereum",
@@ -35,6 +35,7 @@
         "tintinweb.vscode-LLL",
         "tintinweb.vscode-solidity-flattener",
         "tintinweb.vscode-inline-bookmarks",
+        "tintinweb.solidity-metrics",
         "streetsidesoftware.code-spell-checker",
         "eg2.vscode-npm-script",
         "ryu1kn.partial-diff",
