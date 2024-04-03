@@ -3,9 +3,9 @@
 
 A meta-extension bundling [vscode](https://marketplace.visualstudio.com/search?term=ethereum&target=VSCode&category=All%20categories&sortBy=Relevance) plugins for Smart Contract Auditors & Developres. This is basically [my](https://github.com/tintinweb) vscode auditing setup.
 
-* [Bundled Extensions](#📚-bundled-extensions)
-* [Tweaks](#⚙-tweaks)
-* [More...](#➕-more-useful-extensions)
+* [Bundled Extensions](#-bundled-extensions)
+* [Tweaks](#-tweaks)
+* [More...](#-more-useful-extensions)
   
 
 
