@@ -1,5 +1,10 @@
 # Change Log
 
+## 0.0.8
+
+- removed `scode-npm-script` #3
+- removed `MythX.mythxvsc`
+
 ## 0.0.7
 
 - added https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-metrics
