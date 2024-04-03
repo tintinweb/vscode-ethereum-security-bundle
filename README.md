@@ -1,29 +1,15 @@
 
-# VSCode Ethereum Security Bundle
+# Ethereum Security Bundle for vscode
 
-A meta-extension bundling [vscode marketplace](https://marketplace.visualstudio.com/search?term=ethereum&target=VSCode&category=All%20categories&sortBy=Relevance) plugins for secure Ethereum smart contract development.
+A meta-extension bundling [vscode](https://marketplace.visualstudio.com/search?term=ethereum&target=VSCode&category=All%20categories&sortBy=Relevance) plugins for Smart Contract Auditors & Developres. This is basically [my](https://github.com/tintinweb) vscode auditing setup.
 
-* [What's the story?](#whats-the-story)
-* [What's included?](#-whats-included)
-  * [I want (extension-name-here) to be part of this awesome bundle! Where to go?](#-whats-included)
-  * [(extension-name-here) is sh*t! How to get it removed from the bundle?](#-whats-included)
-* [Alright, it's installed, any other settings and tweaks you want to share?](#-tweaks)
-* [Other useful extensions, not bunled with this one](#other-useful-extensions)
+* [Bundled Extensions](#📚-bundled-extensions)
+* [Tweaks](#⚙-tweaks)
+* [More...](#➕-more-useful-extensions)
   
-## 📚What's the story?
 
 
-* You are developing or auditing smart contracts for the Ethereum ecosystem.
-* (optional) You love `git` and your home is [github](https://github.com/)❤ .
-* You are battling with all the different IDE's that claim to support smart contract languages but they do not seem to be the right fit ⚡😐.
-* The IDE's by default do not sufficiently support you doing a good job out.
-* The options provided by the IDE's marketplace is just overwhelming.
-
-This [meta-extension](https://marketplace.visualstudio.com/items?itemName=tintinweb.ethereum-security-bundle) aims to help you getting your IDE up to speed. It does not contribute any new functionality by its own, but installs a curated set of useful extensions for ethereum developers from the [vscode marketplace](https://marketplace.visualstudio.com/search?term=ethereum&target=VSCode&category=All%20categories&sortBy=Relevance). 🤓
-
-## 🎁 What's included?
-
-Alright, this is supposed to be a community curated extension. If you feel like an extension is missing or should be removed from the bundle? Vote for it by creating an [issue](https://github.com/tintinweb/vscode-ethereum-security-bundle/issues) and we'll remove/add it if the vote succeeds! Together we can make this work for everyone :)  
+## 📚 Bundled Extensions
 
 #### Solidity 
 
@@ -35,7 +21,6 @@ Alright, this is supposed to be a community curated extension. If you feel like 
 
 ##### Tool integrations
 
-* [MythX.mythxvsc](https://marketplace.visualstudio.com/items?itemName=MythX.mythxvsc) - VS Code extension for [MythX](https://mythx.io/), the smart contract security scanning service.
 * [tintinweb.vscode-solidity-flattener](https://marketplace.visualstudio.com/items?itemName=tintinweb.vscode-solidity-flattener) - Flatten Solidity contracts from truffle projects from within vscode (context menu for solidity files in the vscode file explorer).
 
 #### Vyper
@@ -64,7 +49,6 @@ Alright, this is supposed to be a community curated extension. If you feel like 
 
 ##### Tool integrations
 
-* [eg2.vscode-npm-script](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script) - NPM integration for vscode. Install dependencies directly by right-clicking `package.json` in your vscode file explorer.
 * [eamodio.gitlens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - Git support. Especially useful when reviewing diffs.
 
 ## ⚙ Tweaks
@@ -176,7 +160,7 @@ Here's a quick walk-through and some tweaks on how to get the best out of vscode
 }
 ```
  
-## Other useful extensions
+## ➕ More useful extensions
 
 * Indent-Rainbow
 * Bookmarks
